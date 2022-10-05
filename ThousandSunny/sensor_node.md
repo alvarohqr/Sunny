@@ -1,3 +1,5 @@
+Sensor node components summary
+
 |Component| Description|
 | --- | --- |
 |MSP430F5529|Low-power microcontroller.|

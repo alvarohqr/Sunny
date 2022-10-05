@@ -1,4 +1,4 @@
-Sensor node components summary
+Sensor/End Node components summary:
 
 |Component| Description|
 | --- | --- |

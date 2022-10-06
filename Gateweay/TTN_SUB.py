@@ -19,12 +19,9 @@ AQI = {'Humidity': 0,
        'PM10': 0,
        'PM2.5': 0,
        'Ozone': 0}
-
- 
  
 APPID  = 'TTN ID'
 PSW    = 'TTN KEY'
-
 
 def on_connect(mqttc, mosq, obj,rc):
     print("Conectado - Código de resultado: " + str(rc))
@@ -65,7 +62,6 @@ def on_message(mqttc,obj,msg):
     except Exception as e:
         print(e)
         pass
-
 
 client = mqtt.Client()
 client.on_connect=on_connect

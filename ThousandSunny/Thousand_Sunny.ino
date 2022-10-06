@@ -69,7 +69,7 @@ void onEvent (ev_t ev) {
       }
       // Schedule next transmission
       os_setTimedCallback(&sendjob, os_getTime() + sec2osticks(TX_INTERVAL), do_send);
-      sleep(60000);
+      sleep(60000);	//! Transmite al menos cada 10 minutos.
       break;
     case EV_LOST_TSYNC:
       Serial.println(F("EV_LOST_TSYNC"));

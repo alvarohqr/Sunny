@@ -193,7 +193,7 @@
                     "layers": [
                         21,
                         25,
-                        200
+                        27
                     ],
                     "milling": false,
                     "name": "Silkscreen Top",
@@ -218,7 +218,8 @@
                     "layers": [
                         22,
                         26,
-                        201
+                        24,
+                        28
                     ],
                     "milling": false,
                     "name": "Silkscreen Bottom",

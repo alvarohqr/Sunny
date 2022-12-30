@@ -6608,7 +6608,7 @@ grid 2.54 mm</description>
 <text x="-66.04" y="48.26" size="1.778" layer="91">MQ-131</text>
 <text x="-152.4" y="27.94" size="1.778" layer="91">REVERSE VOLTAGE PROTECTION CIRCUIT</text>
 <text x="-182.88" y="15.24" size="1.778" layer="91">VIN &gt;= 3.7V</text>
-<text x="-152.4" y="86.36" size="1.778" layer="91">BOOSTER SWITCH</text>
+<text x="-152.4" y="86.36" size="1.778" layer="91">BOOSTER TRANSITOR SWITCH</text>
 <text x="35.56" y="114.3" size="1.778" layer="91">Vcc 5V</text>
 <text x="35.56" y="109.22" size="1.778" layer="91">GND</text>
 <text x="35.56" y="111.76" size="1.778" layer="91">OUT</text>
